@@ -1,0 +1,18 @@
+
+	--------------------------------- HW4: Subproblem 2B -----------------------------------
+
+		Out of 1,000 Random Sequences, 0 Were Found in the SARS-COV2 Genome Using Smith-Waterman.
+
+		Time (in seconds) to test against 1K random fragments = 0
+
+		Out of 10,000 Random Sequences, 0 Were Found in the SARS-COV2 Genome Using Smith-Waterman.
+
+		Time (in seconds) to test against 10K random fragments = 0
+
+		Out of 100,000 Random Sequences, 0 Were Found in the SARS-COV2 Genome Using Smith-Waterman.
+
+		Time (in seconds) to test against 100K random fragments = 3
+
+		Out of 1,000,000 Random Sequences, 0 Were Found in the SARS-COV2 Genome Using Smith-Waterman.
+
+		Time (in seconds) to test against 100K random fragments = 32

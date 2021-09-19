@@ -1,0 +1,10 @@
+
+	--------------------------------- HW4: Subproblem 2C -----------------------------------
+
+		Out of 100,000 Randomly Selected Fragments (No Mutation) from SARS-COV2 Full Genome, We Found = 99003 Sequences
+
+		Time (in seconds) to test against 100K random (non-mutated) SARS-COV2 genome fragments = 25
+
+		Out of 100,000 Randomly Selected Fragments (With 5% Mutation) from SARS-COV2 Full Genome, We Found = 7648 Sequences
+
+		Time (in seconds) to test against 100K random (mutated) SARS-COV2 genome fragments = 16
